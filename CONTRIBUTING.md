@@ -19,4 +19,4 @@ All contributions will go through a code review process. Be open to feedback and
 
 Thank you for your contribution!
 
-## [Updated on May 12, 2025]
+[Updated on May 12, 2025]
